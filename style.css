@@ -252,8 +252,8 @@ header{
 }
 
 .footer {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
     font-size: 1.3rem;
-    align-items: center;
-    justify-content: center;
     text-align: center;
 }
